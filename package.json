@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "balance": "node scripts/balance.cjs",
-    "llm": "node scripts/llmCli.cjs"
+    "llm": "node scripts/llmCli.cjs",
+    "testO": "node scripts/test.cjs"
   },
   "keywords": [],
   "author": "",
